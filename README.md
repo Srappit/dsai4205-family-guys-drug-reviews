@@ -5,10 +5,9 @@
 | Directory | Contents |
 |---|---|
 | data | Original data cleaning notebook |
-| baselines | Original ten-class LR and improved weighted four-class LR |
+| baselines | Original ten-class LR, original unweighted four-class LR, and improved weighted four-class LR |
 | models | Six weighted combinations of DPCNN or TextRCNN with FastText, SGNS or GloVe |
 | visualization | Original EDA and model figures |
-| experiments | Historical unweighted four-class comparison |
 
 ## Inputs and execution
 
