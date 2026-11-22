@@ -17,7 +17,6 @@ The four-class results below are from Section 7 of the final report. All metrics
 | TextRCNN | SGNS | 62.83 | 53.55 | 53.22 | 53.36 |
 | TextRCNN | GloVe | 59.69 | 51.81 | 50.83 | 51.11 |
 
-The original four-class baseline was evaluated on validation data, and the improved baseline was evaluated on test data. The improved baseline's bigram configuration follows the implementation and Section 6 of the report.
 
 The original **ten-class** baseline, which predicted exact ratings from 1 to 10, achieved **38.62% test accuracy** and **17.13% F1** (Section 3 of the report).
 
